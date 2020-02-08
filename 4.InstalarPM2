@@ -1,0 +1,35 @@
+https://www.digitalocean.com/community/tutorials/como-configurar-una-aplicacion-de-node-js-para-produccion-en-ubuntu-18-04-es
+
+
+sudo npm install pm2@latest -g
+
+
+Segun ngnix.
+
+
+Publicar proyecto en ubuntu.
+
+
+1 clonar git
+git clone -b production URL
+
+npm install
+
+carpeta dist
+
+node main.js
+
+
+https://www.digitalocean.com/community/tutorials/como-configurar-una-aplicacion-de-node-js-para-produccion-en-ubuntu-18-04-es
+
+pm2 start hello.js
+
+probamos si esta levantado desde el comando 
+curl -4 icanhazip.com
+
+
+https://www.digitalocean.com/community/tutorials/como-instalar-nginx-en-ubuntu-18-04-es
+
+
+instalacion pm2
+https://www.digitalocean.com/community/tutorials/como-configurar-una-aplicacion-de-node-js-para-produccion-en-ubuntu-18-04-es
