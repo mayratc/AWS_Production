@@ -1,7 +1,24 @@
 https://www.digitalocean.com/community/tutorials/como-configurar-una-aplicacion-de-node-js-para-produccion-en-ubuntu-18-04-es
 
 
+// Instalamos Pm2
 sudo npm install pm2@latest -g
+
+// Ejecutamos el proyecto en pm2
+pm2 start hello.js
+
+// probamos si esta levantado desde el comando 
+curl -4 icanhazip.com
+
+
+
+
+
+
+
+
+
+
 
 
 Segun ngnix.
