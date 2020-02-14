@@ -1,5 +1,5 @@
 https://www.digitalocean.com/community/tutorials/como-configurar-una-aplicacion-de-node-js-para-produccion-en-ubuntu-18-04-es
-
+https://medium.com/@thianlopezz/configuraci%C3%B3n-de-ambiente-de-producci%C3%B3n-para-una-aplicaci%C3%B3n-en-node-js-9f867b464ad9
 
 // Instalamos Pm2
 sudo npm install pm2@latest -g
@@ -10,7 +10,7 @@ pm2 start hello.js
 // probamos si esta levantado desde el comando 
 curl -4 icanhazip.com
 
-
+// Si deseamos habilitar el puerto solo se hace desde el navegador y networkeing agregamos el puerto 3000
 
 
 
